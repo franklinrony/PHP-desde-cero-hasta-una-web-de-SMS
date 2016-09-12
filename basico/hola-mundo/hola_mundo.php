@@ -6,6 +6,3 @@ Creado por Franklin Rony Cortez*/
 echo 'Hola Mundo';
 //echo '<br />';
 echo "Hola Mundo";
-
-?>
-                     
